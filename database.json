@@ -1,0 +1,24 @@
+{
+  "siteName": "The Ultimate Hamster Directory",
+  "lastUpdated": "2023-11-15",
+  "hamsters": [
+    {
+      "name": "Biscuit",
+      "breed": "Syrian",
+      "personality": "Friendly & Sleepy",
+      "image": "https://images.unsplash.com/photo-1548550023-2bdb3c5beed7?auto=format&fit=crop&q=80&w=200&h=200"
+    },
+    {
+      "name": "Marshmallow",
+      "breed": "Winter White Dwarf",
+      "personality": "Fast & Energetic",
+      "image": "https://images.unsplash.com/photo-1541806367354-2bfc851174e5?auto=format&fit=crop&q=80&w=200&h=200"
+    },
+    {
+      "name": "Nugget",
+      "breed": "Roborovski",
+      "personality": "Very Shy",
+      "image": "https://images.unsplash.com/photo-1501706369528-990e442ced4d?auto=format&fit=crop&q=80&w=200&h=200"
+    }
+  ]
+}
